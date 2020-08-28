@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{34CFD46F-36C9-4929-8B56-8687709C5980}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SoftClin_v0._1._2</RootNamespace>
+    <AssemblyName>SoftClin v0.1.2</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DatosProyecto\DataEstatica.cs" />
+    <Compile Include="DatosProyecto\Fomularios\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\FrmPrincipalMDI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\FrmPrincipalMDI.Designer.cs">
+      <DependentUpon>FrmPrincipalMDI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmNvoExpediente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmNvoExpediente.Designer.cs">
+      <DependentUpon>frmNvoExpediente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmActuExp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmActuExp.Designer.cs">
+      <DependentUpon>frmActuExp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmActualizarCita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmActualizarCita.Designer.cs">
+      <DependentUpon>frmActualizarCita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmCrearCita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmCrearCita.Designer.cs">
+      <DependentUpon>frmCrearCita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmDoctoresCitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmDoctoresCitas.Designer.cs">
+      <DependentUpon>frmDoctoresCitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmAtenderCita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmAtenderCita.Designer.cs">
+      <DependentUpon>frmAtenderCita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmHistoriaDetalleCita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmHistoriaDetalleCita.Designer.cs">
+      <DependentUpon>frmHistoriaDetalleCita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmCrearEspecialidadDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmCrearEspecialidadDoctor.Designer.cs">
+      <DependentUpon>frmCrearEspecialidadDoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmModificarEspecialidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmModificarEspecialidad.Designer.cs">
+      <DependentUpon>frmModificarEspecialidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmingresodoctores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmingresodoctores.Designer.cs">
+      <DependentUpon>frmingresodoctores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmmodificadoctores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmmodificadoctores.Designer.cs">
+      <DependentUpon>frmmodificadoctores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmHistoriaCitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmHistoriaCitas.Designer.cs">
+      <DependentUpon>frmHistoriaCitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmResumenCitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmResumenCitas.Designer.cs">
+      <DependentUpon>frmResumenCitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmResumenDoctores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmResumenDoctores.Designer.cs">
+      <DependentUpon>frmResumenDoctores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmResumenEspecialidadesDoctores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmResumenEspecialidadesDoctores.Designer.cs">
+      <DependentUpon>frmResumenEspecialidadesDoctores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmResumenExp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosProyecto\Fomularios\frmResumenExp.Designer.cs">
+      <DependentUpon>frmResumenExp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="DatosProyecto\Fomularios\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatosProyecto\Fomularios\FrmPrincipalMDI.resx">
+      <DependentUpon>FrmPrincipalMDI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatosProyecto\Fomularios\frmNvoExpediente.resx">
+      <DependentUpon>frmNvoExpediente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatosProyecto\Fomularios\frmActuExp.resx">
+      <DependentUpon>frmActuExp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatosProyecto\Fomularios\frmCrearCita.resx">
+      <DependentUpon>frmCrearCita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatosProyecto\Fomularios\frmActualizarCita.resx">
+      <DependentUpon>frmActualizarCita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatosProyecto\Fomularios\frmDoctoresCitas.resx">
+      <DependentUpon>frmDoctoresCitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatosProyecto\Fomularios\frmAtenderCita.resx">
+      <DependentUpon>frmAtenderCita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatosProyecto\Fomularios\frmHistoriaDetalleCita.resx">
+      <DependentUpon>frmHistoriaDetalleCita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatosProyecto\Fomularios\frmCrearEspecialidadDoctor.resx">
+      <DependentUpon>frmCrearEspecialidadDoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatosProyecto\Fomularios\frmModificarEspecialidad.resx">
+      <DependentUpon>frmModificarEspecialidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatosProyecto\Fomularios\frmingresodoctores.resx">
+      <DependentUpon>frmingresodoctores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatosProyecto\Fomularios\frmmodificadoctores.resx">
+      <DependentUpon>frmmodificadoctores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatosProyecto\Fomularios\frmResumenExp.resx">
+      <DependentUpon>frmResumenExp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatosProyecto\Fomularios\frmResumenEspecialidadesDoctores.resx">
+      <DependentUpon>frmResumenEspecialidadesDoctores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatosProyecto\Fomularios\frmResumenDoctores.resx">
+      <DependentUpon>frmResumenDoctores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatosProyecto\Fomularios\frmResumenCitas.resx">
+      <DependentUpon>frmResumenCitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatosProyecto\Fomularios\frmHistoriaCitas.resx">
+      <DependentUpon>frmHistoriaCitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo calculadora.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\line.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo empresa.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo empresa2.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

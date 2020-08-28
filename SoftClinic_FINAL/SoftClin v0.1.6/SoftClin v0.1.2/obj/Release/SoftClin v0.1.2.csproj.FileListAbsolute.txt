@@ -1,0 +1,128 @@
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.5\SoftClin v0.1.2\bin\Release\SoftClin v0.1.2.exe.config
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin v0.1.2.csprojResolveAssemblyReference.cache
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.5\SoftClin v0.1.2\bin\Release\SoftClin v0.1.2.exe
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.5\SoftClin v0.1.2\bin\Release\SoftClin v0.1.2.pdb
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmLogin.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.FrmPrincipalMDI.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmNvoExpediente.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmActuExp.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmResumenExp.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmCrearCita.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmActualizarCita.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmDoctoresCitas.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmAtenderCita.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmHistoriaDetalleCita.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmCrearEspecialidadDoctor.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmModificarEspecialidad.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmingresodoctores.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmmodificadoctores.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.Properties.Resources.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin v0.1.2.csproj.GenerateResource.Cache
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin v0.1.2.exe
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin v0.1.2.pdb
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmResumenEspecialidadesDoctores.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmResumenDoctores.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmResumenCitas.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmHistoriaCitas.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\Proyecto Final\SoftClin v0.1.5\SoftClin v0.1.2\bin\Release\SoftClin v0.1.2.exe.config
+C:\Users\selfs\Documents\UTEC\Programacion I\Proyecto Final\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin v0.1.2.exe
+C:\Users\selfs\Documents\UTEC\Programacion I\Proyecto Final\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin v0.1.2.pdb
+C:\Users\selfs\Documents\UTEC\Programacion I\Proyecto Final\SoftClin v0.1.5\SoftClin v0.1.2\bin\Release\SoftClin v0.1.2.exe
+C:\Users\selfs\Documents\UTEC\Programacion I\Proyecto Final\SoftClin v0.1.5\SoftClin v0.1.2\bin\Release\SoftClin v0.1.2.pdb
+C:\Users\selfs\Documents\UTEC\Programacion I\Proyecto Final\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmLogin.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\Proyecto Final\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.FrmPrincipalMDI.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\Proyecto Final\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmNvoExpediente.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\Proyecto Final\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmActuExp.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\Proyecto Final\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmCrearCita.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\Proyecto Final\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmActualizarCita.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\Proyecto Final\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmDoctoresCitas.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\Proyecto Final\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmAtenderCita.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\Proyecto Final\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmHistoriaDetalleCita.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\Proyecto Final\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmCrearEspecialidadDoctor.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\Proyecto Final\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmModificarEspecialidad.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\Proyecto Final\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmingresodoctores.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\Proyecto Final\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmmodificadoctores.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\Proyecto Final\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmResumenExp.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\Proyecto Final\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmResumenEspecialidadesDoctores.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\Proyecto Final\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmResumenDoctores.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\Proyecto Final\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmResumenCitas.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\Proyecto Final\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmHistoriaCitas.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\Proyecto Final\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.Properties.Resources.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\Proyecto Final\SoftClin v0.1.5\SoftClin v0.1.2\obj\Release\SoftClin v0.1.2.csproj.GenerateResource.Cache
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.6\SoftClin v0.1.2\bin\Release\SoftClin v0.1.2.exe.config
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin v0.1.2.exe
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin v0.1.2.pdb
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.6\SoftClin v0.1.2\bin\Release\SoftClin v0.1.2.exe
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.6\SoftClin v0.1.2\bin\Release\SoftClin v0.1.2.pdb
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin v0.1.2.csprojResolveAssemblyReference.cache
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmLogin.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.FrmPrincipalMDI.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmNvoExpediente.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmActuExp.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmCrearCita.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmActualizarCita.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmDoctoresCitas.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmAtenderCita.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmHistoriaDetalleCita.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmCrearEspecialidadDoctor.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmModificarEspecialidad.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmingresodoctores.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmmodificadoctores.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmResumenExp.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmResumenEspecialidadesDoctores.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmResumenDoctores.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmResumenCitas.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmHistoriaCitas.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.Properties.Resources.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin v0.1.2.csproj.GenerateResource.Cache
+C:\Users\selfs\Documents\UTEC\Programacion I\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\bin\Release\SoftClin v0.1.2.exe.config
+C:\Users\selfs\Documents\UTEC\Programacion I\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin v0.1.2.exe
+C:\Users\selfs\Documents\UTEC\Programacion I\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin v0.1.2.pdb
+C:\Users\selfs\Documents\UTEC\Programacion I\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\bin\Release\SoftClin v0.1.2.exe
+C:\Users\selfs\Documents\UTEC\Programacion I\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\bin\Release\SoftClin v0.1.2.pdb
+C:\Users\selfs\Documents\UTEC\Programacion I\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmLogin.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.FrmPrincipalMDI.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmNvoExpediente.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmActuExp.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmCrearCita.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmActualizarCita.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmDoctoresCitas.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmAtenderCita.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmHistoriaDetalleCita.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmCrearEspecialidadDoctor.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmModificarEspecialidad.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmingresodoctores.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmmodificadoctores.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmResumenExp.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmResumenEspecialidadesDoctores.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmResumenDoctores.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmResumenCitas.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmHistoriaCitas.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.Properties.Resources.resources
+C:\Users\selfs\Documents\UTEC\Programacion I\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin v0.1.2.csproj.GenerateResource.Cache
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\bin\Release\SoftClin v0.1.2.exe.config
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin v0.1.2.exe
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin v0.1.2.pdb
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\bin\Release\SoftClin v0.1.2.exe
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\bin\Release\SoftClin v0.1.2.pdb
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin v0.1.2.csprojResolveAssemblyReference.cache
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmLogin.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.FrmPrincipalMDI.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmNvoExpediente.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmActuExp.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmCrearCita.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmActualizarCita.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmDoctoresCitas.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmAtenderCita.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmHistoriaDetalleCita.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmCrearEspecialidadDoctor.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmModificarEspecialidad.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmingresodoctores.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmmodificadoctores.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmResumenExp.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmResumenEspecialidadesDoctores.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmResumenDoctores.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmResumenCitas.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.frmHistoriaCitas.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin_v0._1._2.Properties.Resources.resources
+C:\Users\jdromero\OneDrive - mail.utec.edu.sv\Proyecto Catedra\SoftClinic_FINAL\SoftClin v0.1.6\SoftClin v0.1.2\obj\Release\SoftClin v0.1.2.csproj.GenerateResource.Cache
