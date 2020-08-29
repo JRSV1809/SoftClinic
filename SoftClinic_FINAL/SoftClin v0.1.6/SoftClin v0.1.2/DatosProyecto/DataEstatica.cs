@@ -22,6 +22,7 @@ namespace SoftClin_v0._1._2
 
         public static void SetCadenaConexion()
         {
+            //Revisar que Server esta disponible de AWS 
             CadConexionDB = @"Data Source=softclin.ckh24lrjlzsa.us-east-2.rds.amazonaws.com;Initial Catalog=SoftClin;User ID=" + Usuario + ";Password=" + Contrasña;
         }
 
